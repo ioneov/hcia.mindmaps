@@ -28,7 +28,7 @@ A mindmaps designed for the HCIA H12-811 exam.
 
 [Eth-Trunk]()
 
-[VLAN]()
+[VLAN](https://github.com/ioneov/hcia.mindmaps/blob/main/maps/VLAN.pdf)
 
 ### Cyber security infrastructure and network access
 
