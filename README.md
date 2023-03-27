@@ -40,7 +40,7 @@ A mindmaps designed for the HCIA H12-811 exam.
 ### WLAN basics
 ### WAN basics
 
-[WAN]()
+- [WAN]()
 
 - [PPP](https://github.com/ioneov/hcia.mindmaps/blob/main/maps/PPP.pdf)
 
